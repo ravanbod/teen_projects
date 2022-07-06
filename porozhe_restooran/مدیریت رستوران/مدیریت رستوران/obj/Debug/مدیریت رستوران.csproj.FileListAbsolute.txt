@@ -1,0 +1,8 @@
+c:\users\shahin\documents\visual studio 2012\Projects\مدیریت رستوران\مدیریت رستوران\bin\Debug\مدیریت رستوران.exe
+c:\users\shahin\documents\visual studio 2012\Projects\مدیریت رستوران\مدیریت رستوران\bin\Debug\مدیریت رستوران.pdb
+c:\users\shahin\documents\visual studio 2012\Projects\مدیریت رستوران\مدیریت رستوران\obj\Debug\مدیریت رستوران.csprojResolveAssemblyReference.cache
+c:\users\shahin\documents\visual studio 2012\Projects\مدیریت رستوران\مدیریت رستوران\obj\Debug\مدیریت_رستوران.Form1.resources
+c:\users\shahin\documents\visual studio 2012\Projects\مدیریت رستوران\مدیریت رستوران\obj\Debug\مدیریت_رستوران.Properties.Resources.resources
+c:\users\shahin\documents\visual studio 2012\Projects\مدیریت رستوران\مدیریت رستوران\obj\Debug\مدیریت رستوران.csproj.GenerateResource.Cache
+c:\users\shahin\documents\visual studio 2012\Projects\مدیریت رستوران\مدیریت رستوران\obj\Debug\مدیریت رستوران.exe
+c:\users\shahin\documents\visual studio 2012\Projects\مدیریت رستوران\مدیریت رستوران\obj\Debug\مدیریت رستوران.pdb
